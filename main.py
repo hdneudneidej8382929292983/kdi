@@ -3,7 +3,6 @@ import telebot
 from telebot import types
 from user_agent import generate_user_agent
 import logging
-from config import *
 BOT_TOKEN = "6386097799:AAHTHECTlQU1m7T0HVC_r4tCQpKdcrsKzp4"
 SUDO = "5108562302"
 from flask import Flask, request
